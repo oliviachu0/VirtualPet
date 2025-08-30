@@ -9,6 +9,7 @@ void draw(){
 fill(0, 0, 0);
 triangle(230, 190, 230, 460, 400, 400);
 triangle(570, 190, 570, 460, 400, 400);
+strokeWeight(7);
 ellipse(400, 440, 350, 350);
 
 fill(255, 194, 72);
